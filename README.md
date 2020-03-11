@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/shmhd91/kickstart/_apis/build/status/shamzu91.kickstart-java?branchName=master)](https://dev.azure.com/shmhd91/kickstart/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
